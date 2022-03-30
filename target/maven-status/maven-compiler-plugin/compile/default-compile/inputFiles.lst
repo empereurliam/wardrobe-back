@@ -1,0 +1,10 @@
+/Volumes/Diskillz_La_Peste/wardrobe/back/src/main/java/com/liamhugo/wardrobe/CORSResponseFilter.java
+/Volumes/Diskillz_La_Peste/wardrobe/back/src/main/java/com/liamhugo/wardrobe/EWardrobeApplication.java
+/Volumes/Diskillz_La_Peste/wardrobe/back/src/main/java/com/liamhugo/wardrobe/users/resource/ClotheInput.java
+/Volumes/Diskillz_La_Peste/wardrobe/back/src/main/java/com/liamhugo/wardrobe/users/bdd/User.java
+/Volumes/Diskillz_La_Peste/wardrobe/back/src/main/java/com/liamhugo/wardrobe/users/resource/UserResource.java
+/Volumes/Diskillz_La_Peste/wardrobe/back/src/main/java/com/liamhugo/wardrobe/clothes/bdd/Clothe.java
+/Volumes/Diskillz_La_Peste/wardrobe/back/src/main/java/com/liamhugo/wardrobe/clothes/bdd/ClotheRepository.java
+/Volumes/Diskillz_La_Peste/wardrobe/back/src/main/java/com/liamhugo/wardrobe/users/bdd/UserRepository.java
+/Volumes/Diskillz_La_Peste/wardrobe/back/src/main/java/com/liamhugo/wardrobe/JerseyConfiguration.java
+/Volumes/Diskillz_La_Peste/wardrobe/back/src/main/java/com/liamhugo/wardrobe/clothes/resource/ClotheResource.java

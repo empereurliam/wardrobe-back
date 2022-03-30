@@ -1,0 +1,10 @@
+com/liamhugo/wardrobe/CORSResponseFilter.class
+com/liamhugo/wardrobe/clothes/bdd/ClotheRepository.class
+com/liamhugo/wardrobe/EWardrobeApplication.class
+com/liamhugo/wardrobe/users/bdd/UserRepository.class
+com/liamhugo/wardrobe/clothes/bdd/Clothe.class
+com/liamhugo/wardrobe/users/bdd/User.class
+com/liamhugo/wardrobe/users/resource/ClotheInput.class
+com/liamhugo/wardrobe/users/resource/UserResource.class
+com/liamhugo/wardrobe/clothes/resource/ClotheResource.class
+com/liamhugo/wardrobe/JerseyConfiguration.class
